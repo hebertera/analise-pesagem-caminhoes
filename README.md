@@ -3,7 +3,7 @@
 
 Projeto em Python para análise de dados de pesagem de caminhões, simulando operações logísticas reais.
 
-## 🚀 Tecnologias
+## Tecnologias
 - Python
 - Pandas
 
@@ -13,5 +13,5 @@ Projeto em Python para análise de dados de pesagem de caminhões, simulando ope
 - Análise por dia
 - Geração de relatório automático
 
-## 🎯 Objetivo
+## Objetivo
 Aplicar conceitos de análise de dados e automação com base em cenários reais de logística.
